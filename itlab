@@ -3,7 +3,8 @@
 <title>List</title>
 </head>
 <body>
-<H2 TITLE="HELLO HTML!">TITLED HEADING TAG EXAMPLE</H3>
+<H2 TITLE="HELLO HTML!">TITLED HEADING TAG EXAMPLE</H2>
+<h3>Hello</h3>
 <ul type="circle">
 <li> apple </li>
 <li> mango </li>
